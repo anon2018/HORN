@@ -124,7 +124,7 @@
 </addon>
 
 	
-	<addon id="repository.unicornND" name="[B][COLOR=pink]UNICORN[/COLOR][/B] Repository" provider-name="UNICORN" version="0.0.1">
+	<addon id="repository.unicornND" name="[B][COLOR=RED]UNICORN-ND[/COLOR][/B] Repository" provider-name="UNICORN" version="0.0.1">
   <extension point="xbmc.addon.repository">
   <dir>
     <info>https://raw.githubusercontent.com/anon2018/UNICORN/master/addons.xml</info>
